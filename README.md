@@ -10,7 +10,7 @@ it will start from the business case and the problem description, then search fo
 
 This project demonstrates about how to make RESTful API calls to the Foursquare API to retrieve data about venues in different neighborhoods around the world, scraping web data and parsing HTML code, using the Folium library to great maps of geospatial data and to communicate my results and findings.
 
-And many kills in details 
+And many other skills in details 
 
 Ahmad Shhadeh
 2019-09-08
